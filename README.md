@@ -1,6 +1,6 @@
 # Mood Selector Web App
 
-A simple web app that responds to your selected mood.
+A simple web app that responds to your selected mood helping you take Care of your mental heath😊
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://681a4e390f021319de749575--strong-sprite-31edfd.netlify.app/)
 ## Features
