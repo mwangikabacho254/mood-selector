@@ -11,3 +11,4 @@ A simple web app that responds to your selected mood helping you take Care of yo
 ## How to Use
 1. Select your mood from the dropdown
 2. See the app's response
+yes
